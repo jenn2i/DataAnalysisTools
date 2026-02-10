@@ -2,7 +2,6 @@ import pandas as pd
 import os
 import sys
 
-<<<<<<< HEAD
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # 🔥 합칠 엑셀 파일들 (파일명을 정확히 확인하세요!)
