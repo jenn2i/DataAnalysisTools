@@ -1,6 +1,7 @@
 # Data Analysis Tools
 
 A tool that helps analyze leaked data for security research and investigation purposes.
+
 Analyze SQL dumps, CSV, and JSON files directly in your browser with built-in IP intelligence and email domain classification.
 
 ## Key Features
